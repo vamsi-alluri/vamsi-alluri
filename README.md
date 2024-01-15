@@ -1,7 +1,7 @@
-- 👋 You there, Hi! I’m @vamsi1306
+- 👋 You there, Hi! I’m @Vamsi Alluri
 - 👀 I’m interested in the automation of daily recurring things.
 - 🌱 I’m currently pursuing a master's in Computer Science.
-- 💞️ I’m looking to collaborate on Backend and Security related fields.
+- 💞️ I want to collaborate on the System Design and Security fields.
 - 😁 I love 🐈 & 🐕 equally. 
 - 📫 How to reach me: I still haven't figured that out, that's your job to do.
 
