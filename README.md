@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing a master's in Computer Science.
 - 💞️ I want to collaborate on the System Design and Security fields.
 - 😁 I love 🐈 & 🐕 equally. 
-- 📫 How to reach me: linkedin.com/in/vamsialluri
+- 📫 How to reach me: [linkedin.com/in/vamsialluri](linkedin.com/in/vamsialluri)
 
 <!---
 vamsi1306/vamsi1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
